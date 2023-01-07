@@ -1,0 +1,9 @@
+# Ignore files without extension
+*
+!/**/
+!*.*
+
+# Ignore vscode config files
+*.dSYM/
+.vscode/
+
